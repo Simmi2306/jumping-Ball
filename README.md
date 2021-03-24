@@ -1,2 +1,2 @@
-# jumping-Ball
-see how the ball shows the magic of jumping
+# collisionAlgorithm
+Algorithm to detect collision between two objects
